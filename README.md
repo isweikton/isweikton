@@ -4,13 +4,6 @@
   
 
 #### <div align="center">I'm Weikton, a freelance developer in GTA:SA Android</div>  
-  
-
-- 💎 Working remotely since 2020  
-  
-
-- ⚡ Have a social blog in media  
-  
 
 <br/>  
 
