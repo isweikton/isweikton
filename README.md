@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://d2bvhe78se1grn.cloudfront.net/original/3X/3/1/3108a723f650826496c39d902fe715c3c0c4685f.gif" align="center" style="width: 100%" />
+<img src="https://media1.tenor.com/m/qz4ApsR078cAAAAC/leon-kennedy-ada-wong.gif" align="center" style="width: 100%" />
 </div>  
   
 
