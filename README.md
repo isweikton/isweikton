@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">I'm Weikton, a freelance developer in GTA:SA Android</div>  
+#### <div align="center">I'm Weikton?</div>  
 
 <br/>  
 
