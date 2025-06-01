@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/qz4ApsR078cAAAAC/leon-kennedy-ada-wong.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 #### <div align="center">I'm Weikton?</div>  
 
 <br/>  
