@@ -5,8 +5,6 @@ I am Weikton. Look smth in GTA:SA Android. Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weikton_official)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/weikton)
 
-## ꒦꒷⚡꒷꒦ Technologies
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -16,7 +14,6 @@ I am Weikton. Look smth in GTA:SA Android. Connect with me:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ꒦꒷🦋꒷꒦ Beautiful screenshoot
 ![BR](https://i.postimg.cc/QtC9WXh6/2025-06-21-122952484.png)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton)
