@@ -1,8 +1,34 @@
-### Hello World!
-I am Weikton. Look smth in GTA:SA Android.
-##
-### Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weikton_official)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/weikton)
-##
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Weikton&section=header&fontAlign=50&fontColor=454545&animation=twinkling&stroke=ffffff&reversal=true" alt="Weikton banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=C%2B%2B+Developer;Reverse+Engineering+Enthusiast;Android+%26+GTA%3ASA+Modding;Kotlin+%7C+Java+%7C+Jetpack+Compose;Researching+formats+logic+and+game+internals" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pawn-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-111111?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Layout-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/GTA%3ASA-111111?style=for-the-badge&logo=rockstargames&logoColor=FCAF17" />
+  <img src="https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge&logo=materialdesign&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Modding-111111?style=for-the-badge&logo=gamejolt&logoColor=FACC15" />
+</p>
+
+<p>
+  <a href="https://t.me/weikton_official">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://vk.com/weikton">
+    <img src="https://img.shields.io/badge/VKontakte-111111?style=for-the-badge&logo=vk&logoColor=4F7DB3" alt="VKontakte" />
+  </a>
+</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton" alt="Visitor Badge" />
+
+</div>
