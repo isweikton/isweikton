@@ -29,6 +29,14 @@
     <img src="https://img.shields.io/badge/VKontakte-111111?style=for-the-badge&logo=vk&logoColor=4F7DB3" alt="VKontakte" />
   </a>
 </p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton" alt="Visitor Badge" />
 
 </div>
+
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@isweikton.github?name=isweikton.github&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
+  </a>
+</p>
+
+
+
