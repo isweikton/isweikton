@@ -113,13 +113,16 @@ $ nm -C libweikton.so --defined-only
 
 <h3><code>&nbsp;// telemetry&nbsp;</code></h3>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isweikton&theme=github_dark" width="92%" alt="profile summary" />
+
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isweikton&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&ring_color=38BDF8&hide_title=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isweikton&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="languages" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isweikton&theme=github_dark" alt="repos per language" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isweikton&theme=github_dark" alt="most commit language" />
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=isweikton&hide_border=true&background=0D1117&stroke=1B2530&border=1B2530&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="streak" />
+  <img height="185" src="https://streak-stats.demolab.com?user=isweikton&hide_border=true&background=0D1117&stroke=1B2530&border=1B2530&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isweikton&theme=github_dark&utcOffset=3" alt="productive time" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isweikton&bg_color=0D1117&color=E6EDF3&line=38BDF8&point=7DD3FC&area=true&area_color=0EA5E9&hide_border=true&custom_title=commits%20over%20time" width="92%" alt="activity" />
