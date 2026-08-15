@@ -71,9 +71,7 @@ $ nm -C libweikton.so --defined-only
 <img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/divider.svg" width="90%" alt="" />
 
 <p>
-  <a href="https://count.getloli.com" target="_blank">
-    <img src="https://count.getloli.com/@isweikton.github?name=isweikton.github&theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="visitor counter" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton&left_color=%23111111&right_color=%2338BDF8&left_text=VISITORS" alt="visitors" />
 </p>
 
 </div>
