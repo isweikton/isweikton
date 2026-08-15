@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=270&color=0:070B10,50:0EA5E9,100:070B10&text=weikton&fontSize=66&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=i%20take%20binaries%20apart%20and%20put%20them%20back%20as%20source&descSize=15&descAlign=50&descAlignY=58&animation=twinkling&stroke=38BDF8&strokeWidth=1&reversal=true&section=header" alt="weikton" />
+<img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/header.svg" width="100%" alt="weikton — i take binaries apart and put them back as source" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=880&height=46&lines=Reverse+engineering+GTA%3ASA+mobile%2C+byte+by+byte;C%2B%2B+%2F+ARM+Thumb-2+%2F+DWARF+archaeology;Android+native%3A+JNI%2C+NDK%2C+Kotlin%2C+Compose;SA%3AMP+internals%2C+RakNet%2C+Pawn;%2F%2F+TODO%3A" alt="what i do" />
 
