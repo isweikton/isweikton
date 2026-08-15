@@ -72,7 +72,7 @@ $ nm -C libweikton.so --defined-only
 
 <p>
   <a href="https://count.getloli.com" target="_blank">
-    <img src="https://count.getloli.com/@isweikton.github?name=isweikton.github&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="visitor counter" />
+    <img src="https://count.getloli.com/@isweikton.github?name=isweikton.github&theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="visitor counter" />
   </a>
 </p>
 
