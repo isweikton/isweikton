@@ -121,7 +121,7 @@ $ nm -C libweikton.so --defined-only
 </p>
 
 <p>
-  <img height="185" src="https://streak-stats.demolab.com?user=isweikton&hide_border=true&background=0D1117&stroke=1B2530&border=1B2530&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isweikton&theme=github_dark" alt="stats" />
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isweikton&theme=github_dark&utcOffset=3" alt="productive time" />
 </p>
 
