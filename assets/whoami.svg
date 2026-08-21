@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="322" viewBox="0 0 900 322" role="img" aria-label="nm -C libweikton.so --defined-only">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100D0B"/>
+      <stop offset="1" stop-color="#15110E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.22" cy="0.2" r="0.7">
+      <stop offset="0" stop-color="#C98A4B" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#C98A4B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D9A066" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D9A066" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#D9A066" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 H0 V26" fill="none" stroke="#241C17" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="320" rx="18" fill="url(#bg)" stroke="#2A211B"/>
+  <rect x="1" y="1" width="898" height="320" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="1" width="898" height="320" rx="18" fill="url(#glow)"/>
+
+  <g transform="translate(852 32)">
+    <circle cx="0" cy="0" r="3.5" fill="#D9A066"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="16" cy="0" r="3.5" fill="#D9A066"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="32" cy="0" r="3.5" fill="#D9A066"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+    <text x="36" y="52" fill="#D9A066">$<tspan fill="#EFE7DC"> nm -C libweikton.so --defined-only</tspan></text>
+
+    <g>
+      <text x="36"  y="98"  fill="#574C44">0x00000010</text>
+      <text x="124" y="98"  fill="#C08552">T</text>
+      <text x="148" y="98"  fill="#D9A066">weikton::<tspan fill="#EFE7DC">reverse(libGame.so&amp;)</tspan></text>
+      <text x="430" y="98"  fill="#8C8178">// gta:sa 2.10 — arm &amp; arm64, no guessing</text>
+    </g>
+    <g>
+      <text x="36"  y="124" fill="#574C44">0x00000024</text>
+      <text x="124" y="124" fill="#C08552">T</text>
+      <text x="148" y="124" fill="#D9A066">weikton::<tspan fill="#EFE7DC">cpp::rewrite(Binary&amp;)</tspan></text>
+      <text x="430" y="124" fill="#8C8178">// 1:1 with the original, hooks are cheating</text>
+    </g>
+    <g>
+      <text x="36"  y="150" fill="#574C44">0x00000038</text>
+      <text x="124" y="150" fill="#C08552">T</text>
+      <text x="148" y="150" fill="#D9A066">weikton::<tspan fill="#EFE7DC">android::native(JNIEnv*)</tspan></text>
+      <text x="430" y="150" fill="#8C8178">// jni, ndk, .so surgery, 16 KB pages</text>
+    </g>
+    <g>
+      <text x="36"  y="176" fill="#574C44">0x0000004c</text>
+      <text x="124" y="176" fill="#C08552">T</text>
+      <text x="148" y="176" fill="#D9A066">weikton::<tspan fill="#EFE7DC">pawn::amx(cell* script)</tspan></text>
+      <text x="430" y="176" fill="#8C8178">// sa:mp internals, raknet, packets</text>
+    </g>
+    <g>
+      <text x="36"  y="202" fill="#574C44">0x00000060</text>
+      <text x="124" y="202" fill="#C08552">T</text>
+      <text x="148" y="202" fill="#D9A066">weikton::<tspan fill="#EFE7DC">kotlin::compose(Ui&amp;&amp;)</tspan></text>
+      <text x="430" y="202" fill="#8C8178">// when the thing needs a face</text>
+    </g>
+    <g>
+      <text x="36"  y="228" fill="#574C44">0x00000074</text>
+      <text x="124" y="228" fill="#C08552">T</text>
+      <text x="148" y="228" fill="#D9A066">weikton::<tspan fill="#EFE7DC">design::figma(Pixel* px)</tspan></text>
+      <text x="430" y="228" fill="#8C8178">// ui/ux, layout, pixel discipline</text>
+    </g>
+    <g opacity="0.5">
+      <text x="36"  y="254" fill="#574C44">0x0000ffff</text>
+      <text x="124" y="254" fill="#C08552">T</text>
+      <text x="148" y="254" fill="#D9A066">weikton::<tspan fill="#EFE7DC">sleep()</tspan></text>
+      <text x="430" y="254" fill="#8C8178">// never called</text>
+    </g>
+
+    <text x="36" y="292" fill="#D9A066">$</text>
+    <rect x="48" y="282" width="8" height="13" fill="#D9A066">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(36 306)">
+    <rect x="0" y="0" width="828" height="1" fill="#2A211B"/>
+    <rect x="0" y="-1" width="180" height="3" rx="1.5" fill="url(#sweep)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;648 0;0 0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

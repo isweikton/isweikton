@@ -46,21 +46,7 @@
 
 <h3><code>&nbsp;// whoami&nbsp;</code></h3>
 
-</div>
-
-```console
-$ nm -C libweikton.so --defined-only
-
-0x00000010 T weikton::reverse(libGame.so&)        // gta:sa 2.10 — arm & arm64, no guessing
-0x00000024 T weikton::cpp::rewrite(Binary&)       // 1:1 with the original, hooks are cheating
-0x00000038 T weikton::android::native(JNIEnv*)    // jni, ndk, .so surgery, 16 KB pages
-0x0000004c T weikton::pawn::amx(cell* script)     // sa:mp internals, raknet, packets
-0x00000060 T weikton::kotlin::compose(Ui&&)       // when the thing needs a face
-0x00000074 T weikton::design::figma(Pixel* px)    // ui/ux, layout, pixel discipline
-0x0000ffff T weikton::sleep()                     // never called
-```
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/whoami.svg" width="92%" alt="nm -C libweikton.so --defined-only: weikton::reverse, weikton::cpp::rewrite, weikton::android::native, weikton::pawn::amx, weikton::kotlin::compose, weikton::design::figma, weikton::sleep (never called)" />
 
 <img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/divider.svg" width="90%" alt="" />
 
