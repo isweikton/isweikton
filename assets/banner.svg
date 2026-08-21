@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="weikton">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B0F14"/>
-      <stop offset="1" stop-color="#0D1117"/>
+      <stop offset="0" stop-color="#100D0B"/>
+      <stop offset="1" stop-color="#15110E"/>
     </linearGradient>
 
     <radialGradient id="glow" cx="0.72" cy="0.5" r="0.55">
-      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C98A4B" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C98A4B" stop-opacity="0"/>
     </radialGradient>
 
     <linearGradient id="wm" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8">
-        <animate attributeName="stop-color" values="#38BDF8;#22D3EE;#818CF8;#38BDF8" dur="9s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#D9A066">
+        <animate attributeName="stop-color" values="#D9A066;#E8B788;#C08552;#D9A066" dur="9s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="1" stop-color="#E6EDF3">
-        <animate attributeName="stop-color" values="#E6EDF3;#38BDF8;#E6EDF3" dur="9s" repeatCount="indefinite"/>
+      <stop offset="1" stop-color="#EFE7DC">
+        <animate attributeName="stop-color" values="#EFE7DC;#D9A066;#EFE7DC" dur="9s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#D9A066" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D9A066" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#D9A066" stop-opacity="0"/>
     </linearGradient>
 
     <linearGradient id="rule" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0" stop-color="#D9A066" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D9A066" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#D9A066" stop-opacity="0"/>
     </linearGradient>
 
     <linearGradient id="fadeGrad" x1="0" y1="0" x2="0" y2="1">
@@ -39,7 +39,7 @@
     </linearGradient>
 
     <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M26 0 H0 V26" fill="none" stroke="#16202C" stroke-width="1"/>
+      <path d="M26 0 H0 V26" fill="none" stroke="#241C17" stroke-width="1"/>
     </pattern>
 
     <mask id="fade">
@@ -47,24 +47,24 @@
     </mask>
 
     <g id="listing" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">
-      <text x="0" y="0"   fill="#3E4C5E">0031cfd0  push   {r4-r7, lr}</text>
-      <text x="0" y="17"  fill="#3E4C5E">0031cfd2  ldr    r0, [r4, #0x2c]</text>
-      <text x="0" y="34"  fill="#38BDF8" opacity="0.62">0031cfd4  bl     CPickup::Remove()</text>
-      <text x="0" y="51"  fill="#3E4C5E">0031cfd8  vmov   s0, r1</text>
-      <text x="0" y="68"  fill="#3E4C5E">0031cfdc  vmul.f32 s0, s0, s1</text>
-      <text x="0" y="85"  fill="#38BDF8" opacity="0.62">0031cfe0  cbz    r0, loc_31d004</text>
-      <text x="0" y="102" fill="#3E4C5E">0031cfe2  movw   r1, #0x3f80</text>
-      <text x="0" y="119" fill="#3E4C5E">0031cfe6  strb   r3, [r5, #0x11]</text>
-      <text x="0" y="136" fill="#38BDF8" opacity="0.62">0031cfe8  bl     CWorld::Add(CEntity*)</text>
-      <text x="0" y="153" fill="#3E4C5E">0031cfec  ldrb.w r2, [r6, #0x08]</text>
-      <text x="0" y="170" fill="#3E4C5E">0031cff0  it     ne</text>
-      <text x="0" y="187" fill="#3E4C5E">0031cff2  addne  sp, #0x18</text>
-      <text x="0" y="204" fill="#38BDF8" opacity="0.62">0031cff6  pop    {r4-r7, pc}</text>
-      <text x="0" y="221" fill="#3E4C5E">0031cffa  .word  0x3f800000</text>
+      <text x="0" y="0"   fill="#574C44">0031cfd0  push   {r4-r7, lr}</text>
+      <text x="0" y="17"  fill="#574C44">0031cfd2  ldr    r0, [r4, #0x2c]</text>
+      <text x="0" y="34"  fill="#D9A066" opacity="0.62">0031cfd4  bl     CPickup::Remove()</text>
+      <text x="0" y="51"  fill="#574C44">0031cfd8  vmov   s0, r1</text>
+      <text x="0" y="68"  fill="#574C44">0031cfdc  vmul.f32 s0, s0, s1</text>
+      <text x="0" y="85"  fill="#D9A066" opacity="0.62">0031cfe0  cbz    r0, loc_31d004</text>
+      <text x="0" y="102" fill="#574C44">0031cfe2  movw   r1, #0x3f80</text>
+      <text x="0" y="119" fill="#574C44">0031cfe6  strb   r3, [r5, #0x11]</text>
+      <text x="0" y="136" fill="#D9A066" opacity="0.62">0031cfe8  bl     CWorld::Add(CEntity*)</text>
+      <text x="0" y="153" fill="#574C44">0031cfec  ldrb.w r2, [r6, #0x08]</text>
+      <text x="0" y="170" fill="#574C44">0031cff0  it     ne</text>
+      <text x="0" y="187" fill="#574C44">0031cff2  addne  sp, #0x18</text>
+      <text x="0" y="204" fill="#D9A066" opacity="0.62">0031cff6  pop    {r4-r7, pc}</text>
+      <text x="0" y="221" fill="#574C44">0031cffa  .word  0x3f800000</text>
     </g>
   </defs>
 
-  <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#bg)" stroke="#1B2530"/>
+  <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#bg)" stroke="#2A211B"/>
   <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#grid)" opacity="0.55"/>
   <rect x="1" y="1" width="998" height="258" rx="18" fill="url(#glow)"/>
 
@@ -82,30 +82,30 @@
 
   <g transform="translate(486 0)">
     <text x="0" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="7" fill="url(#wm)">WEIKTON</text>
-    <text x="3" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.6" fill="#64748B">C++  /  REVERSE ENGINEERING  /  ANDROID</text>
+    <text x="3" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.6" fill="#8C8178">C++  /  REVERSE ENGINEERING  /  ANDROID</text>
 
-    <text x="3" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#38BDF8">// TODO:</text>
-    <rect x="66" y="169" width="8" height="14" fill="#38BDF8">
+    <text x="3" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#D9A066">// TODO:</text>
+    <rect x="66" y="169" width="8" height="14" fill="#D9A066">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
     </rect>
 
-    <text x="3" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.6" fill="#334155">github.com/isweikton   |   t.me/weikton_official</text>
+    <text x="3" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.6" fill="#4A4039">github.com/isweikton   |   t.me/weikton_official</text>
   </g>
 
   <g transform="translate(902 46)">
-    <circle cx="0" cy="0" r="3.5" fill="#38BDF8">
+    <circle cx="0" cy="0" r="3.5" fill="#D9A066">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="16" cy="0" r="3.5" fill="#38BDF8">
+    <circle cx="16" cy="0" r="3.5" fill="#D9A066">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="32" cy="0" r="3.5" fill="#38BDF8">
+    <circle cx="32" cy="0" r="3.5" fill="#D9A066">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <g transform="translate(36 232)">
-    <rect x="0" y="0" width="928" height="1" fill="#1B2530"/>
+    <rect x="0" y="0" width="928" height="1" fill="#2A211B"/>
     <rect x="0" y="-1" width="200" height="3" rx="1.5" fill="url(#sweep)">
       <animateTransform attributeName="transform" type="translate" values="0 0;728 0;0 0" dur="7s" repeatCount="indefinite"/>
     </rect>
