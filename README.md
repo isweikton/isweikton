@@ -50,6 +50,23 @@
 
 <img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/divider.svg" width="90%" alt="" />
 
+<h3><code>&nbsp;// devices&nbsp;</code></h3>
+
+<img src="assets/devices.svg" width="92%" alt="iPhone 17 Pro — Deep Blue; Google Pixel 6 — Stormy Black" />
+
+<img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/divider.svg" width="90%" alt="" />
+
+<h3><code>&nbsp;// workstation&nbsp;</code></h3>
+
+<table width="92%">
+  <tr><th align="left"><code>GPU</code></th><td>NVIDIA GeForce RTX 4060 Ti</td></tr>
+  <tr><th align="left"><code>CPU</code></th><td>Intel Core i5-12400F</td></tr>
+  <tr><th align="left"><code>OS</code></th><td>Windows 11 Home Single Language</td></tr>
+  <tr><th align="left"><code>RAM</code></th><td>16 GB</td></tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/isweikton/isweikton/main/assets/divider.svg" width="90%" alt="" />
+
 <h3><code>&nbsp;// telemetry&nbsp;</code></h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isweikton&theme=great_gatsby" width="92%" alt="profile summary" />
